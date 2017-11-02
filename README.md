@@ -1,4 +1,6 @@
 # Maze-Game
-The Maze Game is written in Java. The graphics are rendered in Processing.
-Move your explorer through a maze to find the treasure and win.
-However, make sure to avoid the randomly generated and moving monsters!
+Written in Java and rendered through Processing, The Maze Game will test your abilities to maneuver
+through obstacles and ultimately find the golden treasure. Be sure to avoid the randomly generated
+moving monsters!
+
+Images were used from the web and additional editing was done through Photoshop by myself.
